@@ -6,7 +6,7 @@
 !/Traduccion\ Enginefall/dist/TraduccionEnginefall.exe
 
 # Permitir el propio archivo .gitignore
-!.gitignore
+#!.gitignore
 
 # Permitir directorios necesarios (sin esto Git no entraría a buscar el .exe)
 !/Traduccion\ Enginefall/
